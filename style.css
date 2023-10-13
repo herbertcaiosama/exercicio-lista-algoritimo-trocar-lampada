@@ -1,0 +1,38 @@
+/* ======= Algorítimo lâmpada ======= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #a009a0;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    padding: 25px;
+}
+
+.container-image {
+    margin: 0 20px 0 20px;
+}
+
+img {
+    width: 100%;
+    height: 320px;
+    border-radius: 15px;
+}
+
+.titulo-lista-ordenada {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.container-lista-ordenada {
+    margin: 20px 0 0 50px;
+}
+
+.sublista-ordenada {
+    margin: 10px 0 10px 25px;
+}
